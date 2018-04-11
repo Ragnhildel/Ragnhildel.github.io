@@ -1,9 +1,11 @@
 ## The summer Mira and Ragnhild decided to walk 350km in the Norwegian mountains with a tent. 
 
+Why does this text not show up?
+
 Make changes here: [editor on GitHub](https://github.com/Ragnhildel/Ragnhildel.github.io/edit/master/index.md) 
 
 ![GitHub Logo](/images/Ragnhild Elise Kavli.jpg)
-Format: ![Alt Text](url)
+Format: ![Alt Text]
 
 ### Markdown
 
